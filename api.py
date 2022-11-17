@@ -1,9 +1,2 @@
-print('Bonjour, je suis le module api')
-
-for i in range(10):
-    x = i*i
-    print(i, x)
-
-    print('Cest fini')
-
-
+ git config --global user.name "pothibault"
+ git config --global user.email 'pothibault2919@gmail.com'
